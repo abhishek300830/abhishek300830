@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek300830&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek300830" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek300830" alt="abhishek300830" /></a> </p>
-
 - 🔭 I’m currently working on [Builder's Hut](https://abhishek300830.github.io/BuildersHut-MERN-Stack-Application/)
 
 - 🌱 I’m currently learning **AngularJS and Python**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **abhishek300830@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/154Y3MyvaXQoy7QY91jqhUa0nrh7BgkHe/view?usp=sharing](https://drive.google.com/file/d/154Y3MyvaXQoy7QY91jqhUa0nrh7BgkHe/view?usp=sharing)
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek300830" alt="abhishek300830" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
