@@ -140,23 +140,13 @@ Exploring the intersection of software engineering and AI.
 ---
 
 ### 📊 GitHub Statistics
+coming soon
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek300830&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek300830&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishek300830&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek300830&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+coming soon
 
 ---
 
